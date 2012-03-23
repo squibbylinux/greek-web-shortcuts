@@ -5,7 +5,7 @@ Searchproviders are:
 
   skroutz:
       Search for prices using skroutz.gr
-      e.g., shop:nexus => http://www.skroutz.gr/search?keyphrase=nexus
+      e.g., skroutz:nexus => http://www.skroutz.gr/search?keyphrase=nexus
 
   ufgr:
       Search in forum.ubuntu-gr.org
