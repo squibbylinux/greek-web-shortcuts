@@ -1,0 +1,8 @@
+[Desktop Entry]
+Charset=
+Hidden=false
+Keys=ufgr
+Name=
+Query=https://forum.ubuntu-gr.org/search.php?keywords=\\{@}
+ServiceTypes=SearchProvider
+Type=Service

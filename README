@@ -7,3 +7,6 @@ Searchproviders are:
       Search for prices using skroutz.gr
       e.g., shop:nexus => http://www.skroutz.gr/search?keyphrase=nexus
 
+  ufgr:
+      Search in forum.ubuntu-gr.org
+      e.g., ufgr:gimp => http://forum.ubuntu-gr.org/search.php?keywords=gimp
